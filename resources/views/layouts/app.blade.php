@@ -9,6 +9,6 @@
 </head>
 <body>
 <h1>TEAM FAINORT</h1>
-@yield('content')
+@yield('header')
 </body>
 </html>
